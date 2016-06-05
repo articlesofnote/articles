@@ -1,0 +1,22 @@
+title: What Makes Paris Look like Paris?
+url: http://graphics.cs.cmu.edu/projects/whatMakesParis/
+description: |
+  How to know you're in Paris if you can't see the Eiffel Tower.
+tags:
+  - data-mining
+  - computer-vision
+paper:
+  url: http://graphics.cs.cmu.edu/projects/whatMakesParis/paris_sigg.pdf
+  title: What Makes Paris Look like Paris?
+  publisher: [Carnegie Mellon University, SIGGRAPH 2012]
+  abstract: |
+    Given a large repository of geotagged imagery, we seek to automatically find visual elements, e.g. windows, balconies, and street signs, that are most distinctive for a certain geo-spatial area, for example the city of Paris. This is a tremendously difficult task as the visual features distinguishing architectural elements of different places can be very subtle. In addition, we face a hard search problem: given all possible patches in all images, which of them are both frequently occurring and geographically informative? To address these issues, we propose to use a discriminative clustering approach able to take into account the weak geographic supervision. We show that geographically representative image elements can be discovered automatically from Google Street View imagery in a discriminative manner. We demonstrate that these elements are visually interpretable and perceptually geo-informative. The discovered visual elements can also support a variety of computational geography tasks, such as mapping architectural correspondences and influences within and across cities, finding representative elements at different geo-spatial scales, and geographically-informed image retrieval.
+
+
+  citation: |
+    Carl Doersch, Saurabh Singh, Abhinav Gupta, Josef Sivic, and Alexei A. Efros. What Makes Paris Look like Paris? ACM Transactions on Graphics (SIGGRAPH 2012), August 2012, vol. 31, No. 3. [Show BibTex]
+  authors:
+    - Carl Doersch
+    - Saurabh Singh
+    - Abhinav Gupta
+    - Josef Sivic
