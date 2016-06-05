@@ -1,0 +1,9 @@
+title: 'How I Investigated Uber Surge Pricing in D.C.'
+url: https://source.opennews.org/en-US/articles/how-i-investigated-uber-surge-pricing-dc/
+authors:
+  - Jennifer A. Stark
+description: The data and processes that show some D.C. neighborhoods wait far longer for Uber service.
+retrieved_at: '2016-06-05T00:07:05.757397'
+published_at: 2016-04-18
+excerpt: |
+  My introductory project to computational journalism was to investigate Uber surge pricing in D.C. The resulting story published in the Washington Post’s Wonkblog ended up being about race, but it didn’t start out that way. Nick Diakopoulos, who leads the lab, wrote for the Wonkblog last year with a story on how surge pricing motivates Uber drivers to move to those surging areas, but does not increase the number of drivers on the road as Uber claims. So if drivers are moving toward surge neighborhoods, those neighborhoods experience shorter wait times, and therefore better service. On the other hand, non-surge neighborhoods will experience longer wait times due to there being fewer cars in the area. So we asked: Does surge pricing—and therefore service—differ consistently based on neighborhood (census tract)? And what are the demographics characterizing those neighborhoods?

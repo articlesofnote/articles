@@ -1,0 +1,16 @@
+title: 'Sane Data Updates Are Harder than You Think'
+url: https://source.opennews.org/en-US/learning/sane-data-updates-are-harder-you-think/
+image_url: https://source.opennews.org/media/cache/e3/ac/e3acb290ff5c634db5c9e945d95a7e61.png
+description: |
+  First in a three-part series by Adrian Holovaty about hairy data-parsing problems from a journalist’s perspective.
+retrieved_at: '2016-06-05T00:04:36.862433'
+published_at: 2013-03-11
+publisher: Source OpenNews
+authors:
+  - Adrian Holovaty
+excerpt: |
+  This is the first in a series of three case studies about data-parsing problems from a journalist’s perspective. This will be meaty, this will be hairy, this will be firmly in the weeds.
+
+  We’re in the middle of an open-data renaissance. It’s easier than ever for somebody with basic tech skills to find a bunch of government data, explore it, combine it with other sources, and republish it. See, for instance, the City of Chicago Data Portal, which has hundreds of data sets available for immediate download.
+
+  But the simplicity can be deceptive. Sure, the mechanics of getting data are easy, but once you start working with it, you’ll likely face a variety of rather subtle problems revolving around data correctness, completeness, and freshness.
