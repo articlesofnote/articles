@@ -1,0 +1,7 @@
+url: http://chriswhong.com/open-data/foil_nyc_taxi/
+title: "FOILing NYC’s Taxi Trip Data"
+fetched_at: 2016-06-04 21:59:19.813226
+authors:
+  - Chris Whong
+excerpt: |
+  FOIL (The Freedom of Information Law) is like the computer-illiterate grandmother of Open Data.  The first time I came face-to-face with FOILed information, it was in the form of a phonebook-sized set of printed charts indicating the flow rates of Combined Sewer Overflows (Check out Leif Percifeld’s dontflush.me project).  Whoever he foiled wasted a ton of paper on it, and scraping data from the charts was an actual proposed activity at an eco-themed hackathon. I had heard plenty about people’s awful experiences with FOIL, lots of unresponsive or uncooperative government agencies, months-long backlogs, and everyone’s favorite, lots and lots of PDFs (PDFs are where data goes to die)!  A relative of mine (we like to hold our governments accountable in my family) even told me a State government responded to her FOIL request saying it would cost them $20,000 to fulfill it, and if she cut them a check they’d happily oblige.  I had never really been through the process first-hand, but last week, NYC’s Taxi and Limousine Commission tweeted a data-driven chart that caught my eye:
