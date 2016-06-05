@@ -1,0 +1,14 @@
+title: The Nebraska Problem
+url: https://mollyrocket.com/casey/stream_0015.html
+image_url: https://mollyrocket.com/images/grass_03_10.png
+published_at: 2014-05-02
+authors:
+  - Casey Muratori
+excerpt: |
+  If there’s one thing I can say has been true throughout my entire programming career, it’s that it has always paid to ask why I was doing things the way I was doing them. This has been true at every level, from simple programming constructs to high-level algorithms. Even thoroughly entrenched ideas are often wrong, and questioning those ideas leads to surprising and important insights.
+
+  So these days, whenever I am working on something, no matter how insignificant, I reflexively start considering the reasons behind it. Planting grass was no different.
+
+  The code I described last week was what I checked into The Witness’s source tree, along with a bunch of other unrelated modifications to the grass system that I’ll cover next week. It was a reasonable solution to the apparent problem, and I believed time to be of the essence, so I knew it was not a good time to ask deeper questions. But in my mind, I made the mental note that the next time I was working on pattern generation, I needed to ask “why”. Setting aside time for this article series gave me that opportunity.
+
+  The “why” question in this case is straightforward: “Why are we using blue noise to plant grass?”

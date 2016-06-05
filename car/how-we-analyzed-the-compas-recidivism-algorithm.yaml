@@ -1,0 +1,9 @@
+title: How We Analyzed the COMPAS Recidivism Algorithm
+url: https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm
+image_url: https://www.propublica.org/images/ngen/gypsy_og_image/20160523-machine-bias-1200x630_1.jpg
+published_at: 2016-05-23T07:59:36-0500
+retrieved_at: '2016-06-04T22:28:17.590138'
+excerpt: |
+  Across the nation, judges, probation and parole officers are increasingly using algorithms to assess a criminal defendant’s likelihood of becoming a recidivist – a term used to describe criminals who re-offend. There are dozens of these risk assessment algorithms in use. Many states have built their own assessments, and several academics have written tools. There are also two leading nationwide tools offered by commercial vendors.
+
+  We set out to assess one of the commercial tools made by Northpointe, Inc. to discover the underlying accuracy of their recidivism algorithm and to test whether the algorithm was biased against certain groups.

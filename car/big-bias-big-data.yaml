@@ -1,0 +1,8 @@
+title: Uncovering Big Bias with Big Data
+url: https://lawyerist.com/110584/big-bias-big-data/
+published_at: 2016-05-31
+retrieved_at: '2016-06-04T22:52:01.083635'
+excerpt: |
+  A while back, two of my colleagues were arguing about which is a bigger problem in the criminal justice system: bias against defendants of color or bias against poor defendants. My first inclination was to suggest we could settle the dispute if we had the right dataset. (I’m an attorney turned data scientist, so yes, that really was my first thought.) That being said, the right dataset magically appeared in a Tweet from Ben Schoenfeld.
+
+  What follows is the story of how I used those cases to discover what best predicts defendant outcomes: race or income. This post is not a summary of my findings, though you will find them in this article. It is a look behind the curtain of data science, a how to cast as case study. Yes, there will be a few equations. But you can safely skim over them without missing much. Just pay particular attention to the graphs.

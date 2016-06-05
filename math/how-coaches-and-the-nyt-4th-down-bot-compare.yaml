@@ -1,0 +1,10 @@
+title: How Coaches and the NYT 4th Down Bot Compare
+url: http://www.nytimes.com/newsgraphics/2013/11/28/fourth-downs/
+image_url: http://graphics8.nytimes.com/newsgraphics/2013/11/28/fourth-downs/assets/static-images/preview.png
+retrieved_at: '2016-06-04T22:47:13.963299'
+excerpt: |
+  Even the boldest N.F.L. coaches can turn timid on fourth down. When a team fails to pick up enough yards on third down, coaches are faced with a few options. They can decide to kick the ball (by either punting or attempting a field goal) or they can decide to go for it. Going for it is risky – if they fail, they risk ridicule by every TV analyst, armchair quarterback and cabdriver in the country. Kicking is the safe, more conventional choice.
+
+  But is it the right one?
+
+  That’s where NYT 4th Down Bot comes in. It evaluates whether an N.F.L. team should punt, attempt a field goal or go for it on fourth down, in any situation. To make its decision, NYT 4th Down Bot uses a model developed by Brian Burke, founder of AdvancedNFLStats.com. According to the model (and thus, according to NYT 4th Down Bot), coaches are much more conservative than they should be.
