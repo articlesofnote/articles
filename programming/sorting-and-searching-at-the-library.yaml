@@ -1,0 +1,14 @@
+title: Sorting and searching at the library
+url: http://jorendorff.github.io/hackday/2012/library/
+retrieved_at: '2016-06-04T23:22:40.534653'
+published_at: 2012-08-11
+authors:
+  - Jason Orendorff
+excerpt: |
+  If you ever want to screw over a library, just walk up to any shelf, pick up any book, and put it on another shelf where it doesn’t belong.
+
+  Eventually a librarian will stumble across it, see that it’s out of place, and pull it off the shelf. Until then, that book is hopelessly lost. It might as well be on the surface of the moon. Finding a needle in a haystack is easy. When it comes down to it, needles are not hay. Finding one book lost among a million other books? That’s hard.
+
+  The only reason such a thing as a library is possible is that it is a gigantic, life-sized, walk-in data structure, tuned for fast lookup.
+
+  This post is about searching and sorting, two fundamental aspects of data processing, and what the library has to teach us about them.

@@ -1,0 +1,13 @@
+title: 'How EDGAR met the Internet'
+url: http://museum.media.org/edgar/
+publisher: Mappa.Mundi Magazine
+retrieved_at: '2016-06-04T23:35:33.181476'
+published_at: 1999
+authors:
+  - Carl Malamud
+excerpt: |
+  In the summer of 1993, I was helping my friends at Sun Microsystems give a demonstration of the Internet to the Subcommittee on Telecommunications and Finance of the U.S. House of Representatives. It was a typical Internet demonstration: we hauled a couple hundred boxes of equipment into the U.S. Capitol, set it up overnight, and did a bunch of “the future is here” show-and-tell. Live video coming in from Russian satellites, cell phones hooked up to the net, yadda, yadda, yadda. Everybody was suitably impressed.
+
+  After the demonstration, Chairman Edward J. Markey, came up to me and wondered if I could look into something that was bugging him. His subcommittee had responsibility not only for the telecommunications industry, but also for oversight of the Securities and Exchange Commission. A bunch of Nader's Raiders had been sending in petitions to the subcommittee asking why the SEC filings weren't available on the Internet. The initial reaction from the SEC was that the reason the data wasn't on the Internet was that it was technically impossible, and that even if the data were available the only people interested in SEC fillings were Wall Street Fatcats and they didn't really need subsidized access to data they were willing to pay for.
+
+  If something is technically impossible, I get interested. I looked at the EDGAR system and decided it was worth taking a crack at it. Our first cut at the problem was to try and work with the SEC. Chairman Markey's Chief of Staff asked the SEC to come in and discuss the idea of giving us the data and letting us put together an Internet site. There was a bit of pushback, to say the least.

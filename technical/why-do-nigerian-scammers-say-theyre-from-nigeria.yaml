@@ -1,0 +1,17 @@
+title: Why do Nigerian Scammers Say They are from Nigeria?
+url: http://research.microsoft.com/apps/pubs/?id=167719
+retrieved_at: '2016-06-04T23:07:48.556578'
+published_at: 2012
+publisher: WEIS
+authors:
+  - name: Cormac Herley
+    employer: Microsoft Research
+
+paper_url: http://research.microsoft.com/pubs/167719/WhyFromNigeria.pdf
+
+abstract: |
+  False positives cause many promising detection technologies to be unworkable in practice. Attackers, we show, face this problem too. In deciding who to attack true positives are targets successfully attacked, while false positives are those that are attacked but yield nothing.
+
+  This allows us to view the attacker's problem as a binary classification. The most profitable strategy requires accurately distinguishing viable from non-viable users, and balancing the relative costs of true and false positives. We show that as victim density decreases the fraction of viable users than can be profitably attacked drops dramatically. For example, a 10× reduction in density can produce a 1000× reduction in the number of victims found. At very low victim densities the attacker faces a seemingly intractable Catch-22: unless he can distinguish viable from non-viable users with great accuracy the attacker cannot find enough victims to be profitable. However, only by finding large numbers of victims can he learn how to accurately distinguish the two.
+
+  Finally, this approach suggests an answer to the question in the title. Far-fetched tales of West African riches strike most as comical. Our analysis suggests that is an advantage to the attacker, not a disadvantage. Since his attack has a low density of victims the Nigerian scammer has an over-riding need to reduce false positives. By sending an email that repels all but the most gullible the scammer gets the most promising marks to self-select, and tilts the true to false positive ratio in his favor.
